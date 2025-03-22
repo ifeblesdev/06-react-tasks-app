@@ -1,6 +1,6 @@
 # React Task App
 
-Este es un proyecto de una aplicación sencilla de gestión de tareas construido con **React** y los hook `useContext` para el manejo de estado global, `useState` para manejar los estados y `useEffect` para manejar la inicialización.
+Este es un proyecto de una aplicación sencilla de gestión de tareas construido con **React** y los hooks: `useContext` para el manejo de estado global, `useState` para manejar los estados y `useEffect` para manejar la inicialización.
 
 ## 🚀 Características
 - ✅ Agregar tareas a la lista
@@ -25,7 +25,7 @@ Este es un proyecto de una aplicación sencilla de gestión de tareas construido
 ## 📥 Instalación y ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/task-manager.git
+   git clone https://github.com/ifeblesdev/react-tasks-app
    cd task-manager
    ```
 2. Instalar dependencias:
@@ -34,7 +34,7 @@ Este es un proyecto de una aplicación sencilla de gestión de tareas construido
    ```
 3. Ejecutar la aplicación en modo desarrollo:
    ```bash
-   npm start
+   npm run dev
    ```
 
 ## ✨ Uso
